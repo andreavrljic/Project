@@ -1,0 +1,17 @@
+.buttonBorrow{
+    
+    color: #FFFFFF;
+    width: 125px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 10px;
+    border: none;
+}
+
+.notBorrowed{
+    background-color: #09BD3C;
+}
+
+.borrowed{
+    background-color: red;
+}

@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "title": "How Ronald Reagan Changed My Life",
+        "author": "Peter Robinson",
+        "imageURL": "https://m.media-amazon.com/images/I/51gTOMfeCfL.jpg",
+        "genre": "Politics",
+        "borrowed": 0
+    },
+    {
+        "id": 2,
+        "title": "The Origin of Species",
+        "author": "Charles Darwin",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71UtlN4QfUL.jpg",
+        "genre": "Biology",
+        "borrowed": 1
+    },
+    {
+        "id": 3,
+        "title": "The Reagan Diaries",
+        "author": "Ronald Reagan",
+        "imageURL": "https://m.media-amazon.com/images/I/41Hc0CdV9zL.jpg",
+        "genre": [
+            "Autobiography",
+            "Politics"
+        ],
+        "borrowed": 1
+    },
+    {
+        "id": 4,
+        "title": "The Life of Jesus Critically examined",
+        "author": "David Friedrich Strauss, George Eliot",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/A1EHTS9qSVL.jpg",
+        "genre": [
+            "History",
+            "Religion"
+        ],
+        "borrowed": 0
+    },
+    {
+        "id": 5,
+        "title": "The Lord of the Rings; The Fellowship of the Rings",
+        "author": "J. R. R. Tolkien",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71UtlN4QfUL.jpg",
+        "genre": "Biology",
+        "borrowed": 1
+    },
+    {
+        "id": 1,
+        "title": "The Lord of the Rings; The Fellowship of the Rings",
+        "author": "J. R. R. Tolkien",
+        "imageURL": "https://images.moviesanywhere.com/198e228b071c60f5ad57e5f62fe60029/ff22cad6-2218-414d-b853-3f95d76905c7.jpg",
+        "genre": "Fantasy",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "The Lord of the Rings; The Two Towers",
+        "author": "J. R. R. Tolkien",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/A1y0jd28riL.jpg",
+        "genre": "Fantasy",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "The Lord of the Rings; The Return of the King",
+        "author": "J. R. R. Tolkien",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91tZn9CjAwL.jpg",
+        "genre": "Fantasy",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Put po Dalmaciji",
+        "author": "Alberto Fortis",
+        "imageURL": " https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313523700l/12383456.jpg",
+        "genre": "Travelogue",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Kanonske vizitacije Senjske i Modruške (Krbavske) biskupije; Personalne vizitacije župe Senj (18. stoljeće)",
+        "author": "Šime Demo (collected and translated)",
+        "imageURL": "https://www.antikvarijatzz.hr/media/catalog/products/31985/007645_6.JPG",
+        "genre": "Sourcebook/Historiography/Religion",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Ljudi 18. stoljeća na hrvatskom prostoru",
+        "author": "Lovorka Čoralić (and others)",
+        "imageURL": "https://i0.wp.com/historiografija.hr/wp-content/uploads/2017/05/ljudi-18.jpg?fit=225%2C315",
+        "genre": "Historiography",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "imageURL": "https://kbimages1-a.akamaihd.net/fdf06d9a-d900-48dd-94fb-1c14eb5b94ba/1200/1200/False/the-da-vinci-code.jpg",
+        "genre": "Mystery/Conspiracy fiction/Thriller",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Cards on the Table",
+        "author": "Agatha Christie",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51iyOBwS0ES._SX308_BO1,204,203,200_.jpg",
+        "genre": "Crime novel",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Death on the Nile",
+        "author": "Agatha Christie",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71rrX1CZRlL.jpg",
+        "genre": "Crime novel",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "imageURL": " http://prodimage.images-bn.com/pimages/9780062073501_p0_v3_s1200x630.jpg",
+        "genre": "Crime novel",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "12 Rules for Life; An Antidote to Chaos",
+        "author": "Jordan B. Peterson",
+        "imageURL": "https://znanje.hr/product-images/2eff1710-617d-49ef-8f4a-94a01a290c9d.jpg",
+        "genre": "Psychology/Philosophy",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Beyond Order; More 12 Rules for Life",
+        "author": "Jordan B. Peterson",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71EYOo8+bfL.jpg",
+        "genre": "Psychology/Philosophy",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "author": "G. K. Chesterton",
+        "imageURL": "https://m.media-amazon.com/images/I/516F1RDeN9L.jpg",
+        "genre": "Thriller/philosophical novel/antasy",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "The Everlasting Man",
+        "author": "G. K. Chesterton",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71QUoWTwPVL.jpg",
+        "genre": "Christian apologetics",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "The Problem of Pain",
+        "author": "C. S. Lewis",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61ClvYnICxL.jpg",
+        "genre": "Philosophy/Religion",
+        "borrowed": 0
+    },
+    {
+        "id": 1,
+        "title": "Mere Christianity",
+        "author": "C. S. Lewis",
+        "imageURL": "https://m.media-amazon.com/images/I/51VJj8dk9qL.jpg",
+        "genre": "Philosophy/Religion",
+        "borrowed": 0
+    }
+]

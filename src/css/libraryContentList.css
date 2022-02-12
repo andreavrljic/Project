@@ -1,0 +1,10 @@
+.libraryContentList{
+
+    margin-top: 40px;
+    margin-left: 180px;
+    margin-right: 180px;
+    width: auto;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
